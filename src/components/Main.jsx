@@ -1,5 +1,5 @@
 import React from 'react'
-import "./navbar.css";
+import "./main.css";
 
 export default function Main() {
     return (
@@ -146,7 +146,7 @@ export default function Main() {
                                                         </div>
                                                         <div class="css-iYgZzq">
                                                             <div class="css-bpZUjh">
-                                                                <a data-tracking-name="homepage_7a524b43-f198-45df-a163-a55452b616d1_ctaTwo.ctaDetails_cta2" href="https://drivers.uber.com/" target="_self" aria-label="Already have an account? Sign in" class="css-mOjhT">
+                                                                <a data-tracking-name="homepage_7a524b43-f198-45df-a163-a55452b616d1_ctaTwo.ctaDetails_cta2" href="" target="_self" aria-label="Already have an account? Sign in" class="css-mOjhT">
                                                                     <div class="css-fwsLmT">
                                                                         <span class="css-hmtvDr">Already have an account? Sign in</span>
                                                                     </div>
